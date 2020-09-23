@@ -1,0 +1,45 @@
+body{
+   font-family: 'Alegreya', serif;
+}
+
+.font-size-22{
+   font-size: 22px;
+}
+
+.font-size-75{
+   font-size: 75px;
+}
+/*************************header******************/
+header{
+   background-image: url(../images/pic2.jpg);
+   background-size: cover;
+   height: 100vh;
+   width: 100%;
+}
+
+header .layer{
+   height: 100%;
+   width: 100%;
+   background-color: rgba(0, 0, 0, 0.5);
+   top: 0;
+   left: 0;
+}
+
+.settings{
+   position: fixed;
+   right:0;
+   top: 50%;
+}
+
+
+.bg-color{
+   background-color: #f8f8f8;
+}
+.bg-brown{
+   background-color: brown;
+   color: white;
+}
+
+.bg-grey {
+   background-color: #403d38;
+}
